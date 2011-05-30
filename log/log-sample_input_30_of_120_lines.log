@@ -1,0 +1,1005 @@
+2011-05-30 15:55 pm: Note : Starting database setup
+2011-05-30 15:55 pm: Note : Loading imports for 'foods' completed
+2011-05-30 15:55 pm: Note : Loading imports for 'meals' completed
+2011-05-30 15:55 pm: Note : Loading imports for 'nutrients' completed
+2011-05-30 15:55 pm: Note : Loading imports for 'food_nutrients' completed
+2011-05-30 15:55 pm: Error: Attempted to locate food with code [] failed
+2011-05-30 15:55 pm: Error: Attempted to locate food with code [] failed
+2011-05-30 15:55 pm: Error: Attempted to locate food with code [] failed
+2011-05-30 15:55 pm: Error: Attempted to locate food with code [] failed
+2011-05-30 15:55 pm: Error: Attempted to locate food with code [] failed
+2011-05-30 15:55 pm: Error: Attempted to locate food with code [] failed
+2011-05-30 15:55 pm: Error: Attempted to locate food with code [] failed
+2011-05-30 15:55 pm: Error: Attempted to locate food with code [] failed
+2011-05-30 15:55 pm: Error: Attempted to locate food with code [] failed
+2011-05-30 15:55 pm: Note : Loading imports for 'meal_foods' completed
+2011-05-30 15:55 pm: Note : Loading imports for 'weights' completed
+2011-05-30 15:55 pm: Note : Loading imports for 'portions' completed
+2011-05-30 15:55 pm: Note : Loading imports for 'frequencies' completed
+2011-05-30 15:55 pm: Note : Loading imports for 'cereals' completed
+2011-05-30 15:55 pm: Note : Loading imports for 'milks' completed
+2011-05-30 15:55 pm: Note : Completed database setup
+
+2011-05-30 15:55 pm: Note : Defaulting to foods report as no report style specified 
+
+2011-05-30 15:55 pm: Error: Respondent: 102411Q supplied invalid frequency: -9 for meal: OTHER_DRESSING
+2011-05-30 15:55 pm: Error: Respondent: 102411Q supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 102411Q using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 102914M supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 102914M using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 102914M supplied no frying fat food_codes
+2011-05-30 15:55 pm: Note : Respondent: 102914M using default frying fat code: a7024
+2011-05-30 15:55 pm: Error: Respondent: 102914M supplied no baking fat food_codes
+2011-05-30 15:55 pm: Note : Respondent: 102914M using default baking fat code: a7024
+2011-05-30 15:55 pm: Error: Respondent: 103983Z supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 103983Z using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 105705W supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 105705W using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 105991G supplied invalid frequency: 11 for meal: CHOCOLATE_BISCUIT
+2011-05-30 15:55 pm: Error: Respondent: 105991G supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 105991G using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 106111M supplied invalid frequency: -9 for meal: SAVOURY_PIES
+2011-05-30 15:55 pm: Error: Respondent: 106111M supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 106111M using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 106269J supplied invalid portion: -9 for milk
+2011-05-30 15:55 pm: Error: Respondent: 106852S supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 106852S using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 109692E supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 109692E using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 109769N supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 109769N using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 112282V supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 112282V using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 117450M supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 117450M using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 119283E supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 119283E using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 119505W supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 119505W using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 120203E supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 120203E using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 120304P supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 120304P using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 129195D supplied invalid frequency: -9 for meal: ICE_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 129195D supplied invalid frequency: -4 for meal: CHOCOLATES
+2011-05-30 15:55 pm: Error: Respondent: 129195D supplied invalid frequency: -4 for meal: GARLIC
+2011-05-30 15:55 pm: Error: Respondent: 129195D supplied no frying fat food_codes
+2011-05-30 15:55 pm: Note : Respondent: 129195D using default frying fat code: a7024
+2011-05-30 15:55 pm: Error: Respondent: 129195D supplied no baking fat food_codes
+2011-05-30 15:55 pm: Note : Respondent: 129195D using default baking fat code: a7024
+2011-05-30 15:55 pm: Error: Respondent: 129195D supplied no milk portion data
+2011-05-30 15:55 pm: Error: Respondent: 129531T supplied invalid frequency: -9 for meal: BUTTER
+2011-05-30 15:55 pm: Error: Respondent: 129531T supplied invalid frequency: -9 for meal: HORLICKS
+2011-05-30 15:55 pm: Error: Respondent: 129531T supplied invalid frequency: -4 for meal: STRAWBERRIES
+2011-05-30 15:55 pm: Error: Respondent: 129531T supplied invalid frequency: -9 for meal: TINNED_FRUIT
+2011-05-30 15:55 pm: Error: Respondent: 129531T supplied no baking fat food_codes
+2011-05-30 15:55 pm: Note : Respondent: 129531T using default baking fat code: a7024
+2011-05-30 15:55 pm: Error: Respondent: 130923G supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 130923G using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 131703E supplied invalid frequency: -9 for meal: HOMEBAKED_SPONGE
+2011-05-30 15:55 pm: Error: Respondent: 131703E supplied invalid frequency: -9 for meal: BEANSPROUTS
+2011-05-30 15:55 pm: Error: Respondent: 131703E supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 131703E using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 132554E supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 132554E using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 139689K supplied invalid frequency: -9 for meal: ROAST_POTATOES
+2011-05-30 15:55 pm: Error: Respondent: 139689K supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 139689K using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 142291N supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 142291N using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 143055T supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 143055T using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 144298V supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 144298V using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 157123K supplied invalid frequency: -9 for meal: CHEESE
+2011-05-30 15:55 pm: Error: Respondent: 159706S supplied invalid frequency: -4 for meal: OTHER_MARGARINE
+2011-05-30 15:55 pm: Error: Respondent: 159706S supplied invalid frequency: -9 for meal: LOWFAT_SPREAD
+2011-05-30 15:55 pm: Error: Respondent: 159706S supplied invalid frequency: -9 for meal: GREEN_BEANS
+2011-05-30 15:55 pm: Error: Respondent: 159706S supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 159706S using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 159814K supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 159814K using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 159835H supplied invalid frequency: -9 for meal: DRIED_FRUIT
+2011-05-30 15:55 pm: Error: Respondent: 159835H supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 159835H using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 159993E supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 159993E using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 160304S supplied invalid frequency: -4 for meal: BACON
+2011-05-30 15:55 pm: Error: Respondent: 160304S supplied invalid frequency: -4 for meal: SAUSAGES
+2011-05-30 15:55 pm: Error: Respondent: 160304S supplied invalid frequency: -4 for meal: LIVER
+2011-05-30 15:55 pm: Error: Respondent: 160304S supplied invalid frequency: -4 for meal: KETCHUP
+2011-05-30 15:55 pm: Error: Respondent: 160304S supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 160304S using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 160540Z supplied invalid frequency: -9 for meal: STRAWBERRIES
+2011-05-30 15:55 pm: Error: Respondent: 160540Z supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 160540Z using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 161859H supplied invalid frequency: -9 for meal: LAMB
+2011-05-30 15:55 pm: Error: Respondent: 161859H supplied invalid frequency: -9 for meal: DAIRY_DESSERT
+2011-05-30 15:55 pm: Error: Respondent: 161859H supplied invalid frequency: -9 for meal: SUGAR
+2011-05-30 15:55 pm: Error: Respondent: 162728C supplied invalid frequency: -4 for meal: CORNED_BEEF
+2011-05-30 15:55 pm: Error: Respondent: 162728C supplied invalid frequency: -9 for meal: SAUSAGES
+2011-05-30 15:55 pm: Error: Respondent: 162728C supplied invalid frequency: -9 for meal: BROWN_RICE
+2011-05-30 15:55 pm: Error: Respondent: 162728C supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 162728C using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 165494J supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 165494J using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 168966H supplied invalid frequency: -4 for meal: WHOLEMEAL_PASTA
+2011-05-30 15:55 pm: Error: Respondent: 168966H supplied invalid frequency: -9 for meal: LASAGNE
+2011-05-30 15:55 pm: Error: Respondent: 168966H supplied invalid frequency: -4 for meal: KETCHUP
+2011-05-30 15:55 pm: Error: Respondent: 168966H supplied invalid frequency: -9 for meal: MARMITE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: BEEF
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: BURGER
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: PORK
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: LAMB
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: CHICKEN
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: BACON
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: HAM
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: CORNED_BEEF
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: SAUSAGES
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: SAVOURY_PIES
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: LIVER
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: FRIED_FISH
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: FISH_FINGERS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: WHITE_FISH
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: OILY_FISH
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: SHELLFISH
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: ROE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: WHITE_BREAD
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: BROWN_BREAD
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: WHOLEMEAL_BREAD
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: CRACKERS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: CRISPBREAD
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: PORRIDGE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: CEREAL
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: BOILED_POTATOES
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: CHIPS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: ROAST_POTATOES
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: POTATO_SALAD
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: WHITE_RICE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: BROWN_RICE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: WHITE_PASTA
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: WHOLEMEAL_PASTA
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: LASAGNE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: PIZZA
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: SINGLE_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: DOUBLE_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: LOWFAT_YOGURT
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: FULLFAT_YOGURT
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: DAIRY_DESSERT
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: CHEESE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: COTTAGE_CHEESE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: EGGS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: QUICHE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: LOWCAL_SALAD_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: SALAD_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: FRENCH
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: OTHER_DRESSING
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: BUTTER
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: HARD_MARGARINE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: POLYUNSATURATED_MARGARINE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: OTHER_MARGARINE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: LOWFAT_SPREAD
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: VERY_LOWFAT_SPREAD
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: PLAIN_BISCUIT
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: CHOCOLATE_BISCUIT
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: HOMEBAKED_CAKE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: READYMADE_CAKE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: HOMEBAKED_BUNS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: READYMADE_BUNS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: HOMEBAKED_FRUIT_PIES
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: READYMADE_FRUIT_PIES
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: HOMEBAKED_SPONGE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: READYMADE_SPONGE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: MILK_PUDDINGS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: ICE_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: CHOCOLATES
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: CHOCOLATE_BARS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: SWEETS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: SUGAR
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: CRISPS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: NUTS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: VEGETABLE_SOUP
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: MEAT_SOUP
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: SAUCES
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: KETCHUP
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: PICKLES
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: MARMITE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: JAM
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: PEANUT_BUTTER
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: TEA
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: INSTANT_COFFEE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: DECAFF_COFFEE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: COFFEE_WHITENER
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: COCOA
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: HORLICKS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: WINE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: BEER
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: PORT
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: SPIRITS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: LOWCAL_FIZZY_DRINKS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: FIZZY_DRINKS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: FRUIT_JUICE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: FRUIT_SQUASH
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: APPLES
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: PEARS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: ORANGES
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: GRAPEFRUIT
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: BANANAS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: GRAPES
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: MELONS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: PEACHES
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: STRAWBERRIES
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: TINNED_FRUIT
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: DRIED_FRUIT
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: CARROTS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: SPINACH
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: BROCCOLI
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: SPROUTS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: CABBAGE
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: PEAS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: GREEN_BEANS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: MARROW
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: CAULIFLOWER
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: PARSNIPS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: LEEKS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: ONIONS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: GARLIC
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: MUSHROOMS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: PEPPERS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: BEANSPROUTS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: GREEN_SALAD
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: WATERCRESS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: TOMATOES
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: SWEETCORN
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: BEETROOT
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: COLESLAW
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: AVOCADO
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: BEANS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: LENTILS
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid frequency: -9 for meal: TOFU
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid weight: -9 for visible fat
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 169396A using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied no frying fat food_codes
+2011-05-30 15:55 pm: Note : Respondent: 169396A using default frying fat code: a7024
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied no baking fat food_codes
+2011-05-30 15:55 pm: Note : Respondent: 169396A using default baking fat code: a7024
+2011-05-30 15:55 pm: Error: Respondent: 169396A supplied invalid portion: -9 for milk
+2011-05-30 15:55 pm: Error: Respondent: 169995B supplied invalid frequency: -4 for meal: WHITE_FISH
+2011-05-30 15:55 pm: Error: Respondent: 169995B supplied invalid frequency: -9 for meal: FULLFAT_YOGURT
+2011-05-30 15:55 pm: Error: Respondent: 169995B supplied invalid frequency: -4 for meal: EGGS
+2011-05-30 15:55 pm: Error: Respondent: 171191B supplied invalid frequency: -9 for meal: LOWCAL_FIZZY_DRINKS
+2011-05-30 15:55 pm: Error: Respondent: 174639Z supplied invalid frequency: -4 for meal: BURGER
+2011-05-30 15:55 pm: Error: Respondent: 174692G supplied invalid frequency: -4 for meal: ORANGES
+2011-05-30 15:55 pm: Error: Respondent: 174692G supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 174692G using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 174699P supplied invalid frequency: -4 for meal: BURGER
+2011-05-30 15:55 pm: Error: Respondent: 174699P supplied invalid frequency: -9 for meal: ROE
+2011-05-30 15:55 pm: Error: Respondent: 174699P supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 174699P using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 175417V supplied invalid frequency: -9 for meal: HOMEBAKED_FRUIT_PIES
+2011-05-30 15:55 pm: Error: Respondent: 175417V supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 175417V using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: BEEF
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: BURGER
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: PORK
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: LAMB
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: CHICKEN
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: BACON
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: HAM
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: CORNED_BEEF
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: SAUSAGES
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: SAVOURY_PIES
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: LIVER
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: FRIED_FISH
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: FISH_FINGERS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: WHITE_FISH
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: OILY_FISH
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: SHELLFISH
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: ROE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: WHITE_BREAD
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: BROWN_BREAD
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: WHOLEMEAL_BREAD
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: CRACKERS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: CRISPBREAD
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: PORRIDGE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: CEREAL
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: BOILED_POTATOES
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: CHIPS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: ROAST_POTATOES
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: POTATO_SALAD
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: WHITE_RICE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: BROWN_RICE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: WHITE_PASTA
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: WHOLEMEAL_PASTA
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: LASAGNE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: PIZZA
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: SINGLE_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: DOUBLE_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: LOWFAT_YOGURT
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: FULLFAT_YOGURT
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: DAIRY_DESSERT
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: CHEESE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: COTTAGE_CHEESE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: EGGS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: QUICHE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: LOWCAL_SALAD_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: SALAD_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: FRENCH
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: OTHER_DRESSING
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: BUTTER
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: HARD_MARGARINE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: POLYUNSATURATED_MARGARINE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: OTHER_MARGARINE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: LOWFAT_SPREAD
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: VERY_LOWFAT_SPREAD
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: PLAIN_BISCUIT
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: CHOCOLATE_BISCUIT
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: HOMEBAKED_CAKE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: READYMADE_CAKE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: HOMEBAKED_BUNS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: READYMADE_BUNS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: HOMEBAKED_FRUIT_PIES
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: READYMADE_FRUIT_PIES
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: HOMEBAKED_SPONGE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: READYMADE_SPONGE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: MILK_PUDDINGS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: ICE_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: CHOCOLATES
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: CHOCOLATE_BARS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: SWEETS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: SUGAR
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: CRISPS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: NUTS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: VEGETABLE_SOUP
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: MEAT_SOUP
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: SAUCES
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: KETCHUP
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: PICKLES
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: MARMITE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: JAM
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: PEANUT_BUTTER
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: TEA
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: INSTANT_COFFEE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: DECAFF_COFFEE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: COFFEE_WHITENER
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: COCOA
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: HORLICKS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: WINE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: BEER
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: PORT
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: SPIRITS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: LOWCAL_FIZZY_DRINKS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: FIZZY_DRINKS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: FRUIT_JUICE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: FRUIT_SQUASH
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: APPLES
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: PEARS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: ORANGES
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: GRAPEFRUIT
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: BANANAS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: GRAPES
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: MELONS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: PEACHES
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: STRAWBERRIES
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: TINNED_FRUIT
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: DRIED_FRUIT
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: CARROTS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: SPINACH
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: BROCCOLI
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: SPROUTS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: CABBAGE
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: PEAS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: GREEN_BEANS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: MARROW
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: CAULIFLOWER
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: PARSNIPS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: LEEKS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: ONIONS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: GARLIC
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: MUSHROOMS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: PEPPERS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: BEANSPROUTS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: GREEN_SALAD
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: WATERCRESS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: TOMATOES
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: SWEETCORN
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: BEETROOT
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: COLESLAW
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: AVOCADO
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: BEANS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: LENTILS
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid frequency: -9 for meal: TOFU
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid weight: -9 for visible fat
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 176144K using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied no frying fat food_codes
+2011-05-30 15:55 pm: Note : Respondent: 176144K using default frying fat code: a7024
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied no baking fat food_codes
+2011-05-30 15:55 pm: Note : Respondent: 176144K using default baking fat code: a7024
+2011-05-30 15:55 pm: Error: Respondent: 176144K supplied invalid portion: -9 for milk
+2011-05-30 15:55 pm: Error: Respondent: 176305K supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 176305K using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 176305K supplied no frying fat food_codes
+2011-05-30 15:55 pm: Note : Respondent: 176305K using default frying fat code: a7024
+2011-05-30 15:55 pm: Error: Respondent: 176305K supplied no baking fat food_codes
+2011-05-30 15:55 pm: Note : Respondent: 176305K using default baking fat code: a7024
+2011-05-30 15:55 pm: Error: Respondent: 176521V supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 176521V using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 179565D supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 179565D using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 181906Y supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 181906Y using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 186866P supplied invalid frequency: -9 for meal: CHICKEN
+2011-05-30 15:55 pm: Error: Respondent: 186866P supplied invalid frequency: -9 for meal: HAM
+2011-05-30 15:55 pm: Error: Respondent: 186866P supplied invalid frequency: -9 for meal: READYMADE_SPONGE
+2011-05-30 15:55 pm: Error: Respondent: 186866P supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 186866P using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 188611L supplied invalid frequency: -9 for meal: BURGER
+2011-05-30 15:55 pm: Error: Respondent: 188611L supplied invalid frequency: -9 for meal: CORNED_BEEF
+2011-05-30 15:55 pm: Error: Respondent: 188611L supplied invalid frequency: -9 for meal: LIVER
+2011-05-30 15:55 pm: Error: Respondent: 188611L supplied invalid frequency: -9 for meal: FISH_FINGERS
+2011-05-30 15:55 pm: Error: Respondent: 188611L supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 188611L using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: BEEF
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: BURGER
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: PORK
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: LAMB
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: CHICKEN
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: BACON
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: HAM
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: CORNED_BEEF
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: SAUSAGES
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: SAVOURY_PIES
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: LIVER
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: FRIED_FISH
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: FISH_FINGERS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: WHITE_FISH
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: OILY_FISH
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: SHELLFISH
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: ROE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: WHITE_BREAD
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: BROWN_BREAD
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: WHOLEMEAL_BREAD
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: CRACKERS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: CRISPBREAD
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: PORRIDGE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: CEREAL
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: BOILED_POTATOES
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: CHIPS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: ROAST_POTATOES
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: POTATO_SALAD
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: WHITE_RICE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: BROWN_RICE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: WHITE_PASTA
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: WHOLEMEAL_PASTA
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: LASAGNE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: PIZZA
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: SINGLE_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: DOUBLE_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: LOWFAT_YOGURT
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: FULLFAT_YOGURT
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: DAIRY_DESSERT
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: CHEESE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: COTTAGE_CHEESE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: EGGS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: QUICHE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: LOWCAL_SALAD_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: SALAD_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: FRENCH
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: OTHER_DRESSING
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: BUTTER
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: HARD_MARGARINE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: POLYUNSATURATED_MARGARINE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: OTHER_MARGARINE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: LOWFAT_SPREAD
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: VERY_LOWFAT_SPREAD
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: PLAIN_BISCUIT
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: CHOCOLATE_BISCUIT
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: HOMEBAKED_CAKE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: READYMADE_CAKE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: HOMEBAKED_BUNS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: READYMADE_BUNS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: HOMEBAKED_FRUIT_PIES
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: READYMADE_FRUIT_PIES
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: HOMEBAKED_SPONGE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: READYMADE_SPONGE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: MILK_PUDDINGS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: ICE_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: CHOCOLATES
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: CHOCOLATE_BARS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: SWEETS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: SUGAR
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: CRISPS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: NUTS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: VEGETABLE_SOUP
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: MEAT_SOUP
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: SAUCES
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: KETCHUP
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: PICKLES
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: MARMITE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: JAM
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: PEANUT_BUTTER
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: TEA
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: INSTANT_COFFEE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: DECAFF_COFFEE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: COFFEE_WHITENER
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: COCOA
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: HORLICKS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: WINE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: BEER
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: PORT
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: SPIRITS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: LOWCAL_FIZZY_DRINKS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: FIZZY_DRINKS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: FRUIT_JUICE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: FRUIT_SQUASH
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: APPLES
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: PEARS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: ORANGES
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: GRAPEFRUIT
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: BANANAS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: GRAPES
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: MELONS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: PEACHES
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: STRAWBERRIES
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: TINNED_FRUIT
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: DRIED_FRUIT
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: CARROTS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: SPINACH
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: BROCCOLI
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: SPROUTS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: CABBAGE
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: PEAS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: GREEN_BEANS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: MARROW
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: CAULIFLOWER
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: PARSNIPS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: LEEKS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: ONIONS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: GARLIC
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: MUSHROOMS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: PEPPERS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: BEANSPROUTS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: GREEN_SALAD
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: WATERCRESS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: TOMATOES
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: SWEETCORN
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: BEETROOT
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: COLESLAW
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: AVOCADO
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: BEANS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: LENTILS
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid frequency: -9 for meal: TOFU
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid weight: -9 for visible fat
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 194551S using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied no frying fat food_codes
+2011-05-30 15:55 pm: Note : Respondent: 194551S using default frying fat code: a7024
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied no baking fat food_codes
+2011-05-30 15:55 pm: Note : Respondent: 194551S using default baking fat code: a7024
+2011-05-30 15:55 pm: Error: Respondent: 194551S supplied invalid portion: -9 for milk
+2011-05-30 15:55 pm: Error: Respondent: 197865V supplied invalid frequency: -4 for meal: AVOCADO
+2011-05-30 15:55 pm: Error: Respondent: 197865V supplied invalid frequency: -9 for meal: BEANS
+2011-05-30 15:55 pm: Error: Respondent: 197865V supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 197865V using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 197953Q supplied invalid frequency: -9 for meal: PORRIDGE
+2011-05-30 15:55 pm: Error: Respondent: 197953Q supplied invalid frequency: -9 for meal: CEREAL
+2011-05-30 15:55 pm: Error: Respondent: 197953Q supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 197953Q using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 205463D supplied invalid frequency: -9 for meal: BOILED_POTATOES
+2011-05-30 15:55 pm: Error: Respondent: 205463D supplied invalid frequency: -9 for meal: CHOCOLATES
+2011-05-30 15:55 pm: Error: Respondent: 205463D supplied invalid frequency: -9 for meal: SPIRITS
+2011-05-30 15:55 pm: Error: Respondent: 205463D supplied invalid frequency: -9 for meal: MARROW
+2011-05-30 15:55 pm: Error: Respondent: 210113H supplied invalid frequency: -4 for meal: HAM
+2011-05-30 15:55 pm: Error: Respondent: 210113H supplied invalid frequency: -4 for meal: PORT
+2011-05-30 15:55 pm: Error: Respondent: 210113H supplied invalid frequency: -9 for meal: SPIRITS
+2011-05-30 15:55 pm: Error: Respondent: 210113H supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 210113H using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 210633Y supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 210633Y using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 210658A supplied invalid frequency: -4 for meal: PIZZA
+2011-05-30 15:55 pm: Error: Respondent: 210658A supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 210658A using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 211411T supplied invalid frequency: -9 for meal: LIVER
+2011-05-30 15:55 pm: Error: Respondent: 211411T supplied invalid frequency: -9 for meal: CRISPBREAD
+2011-05-30 15:55 pm: Error: Respondent: 211411T supplied invalid frequency: -9 for meal: LOWCAL_SALAD_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 211411T supplied invalid frequency: -9 for meal: READYMADE_SPONGE
+2011-05-30 15:55 pm: Error: Respondent: 211411T supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 211411T using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 212349N supplied invalid frequency: -9 for meal: FRUIT_SQUASH
+2011-05-30 15:55 pm: Error: Respondent: 212349N supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 212349N using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 213606E supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 213606E using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 213843M supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 213843M using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 214636Z supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 214636Z using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 215830X supplied invalid frequency: -9 for meal: PORRIDGE
+2011-05-30 15:55 pm: Error: Respondent: 216337Y supplied invalid frequency: -4 for meal: SPROUTS
+2011-05-30 15:55 pm: Error: Respondent: 216337Y supplied invalid frequency: -4 for meal: BEETROOT
+2011-05-30 15:55 pm: Error: Respondent: 216337Y supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 216337Y using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 217423D supplied invalid frequency: -9 for meal: BROWN_RICE
+2011-05-30 15:55 pm: Error: Respondent: 217423D supplied invalid frequency: -4 for meal: SALAD_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 217423D supplied invalid frequency: -4 for meal: SUGAR
+2011-05-30 15:55 pm: Error: Respondent: 217423D supplied invalid frequency: -9 for meal: MEAT_SOUP
+2011-05-30 15:55 pm: Error: Respondent: 217423D supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 217423D using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 217423D supplied no frying fat food_codes
+2011-05-30 15:55 pm: Note : Respondent: 217423D using default frying fat code: a7024
+2011-05-30 15:55 pm: Error: Respondent: 217423D supplied no baking fat food_codes
+2011-05-30 15:55 pm: Note : Respondent: 217423D using default baking fat code: a7024
+2011-05-30 15:55 pm: Error: Respondent: 219451H supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 219451H using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 221529R supplied invalid frequency: -4 for meal: CHOCOLATES
+2011-05-30 15:55 pm: Error: Respondent: 221529R supplied invalid frequency: -9 for meal: SUGAR
+2011-05-30 15:55 pm: Error: Respondent: 221529R supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 221529R using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 221529Z supplied invalid frequency: -4 for meal: CHOCOLATES
+2011-05-30 15:55 pm: Error: Respondent: 221529Z supplied invalid frequency: -9 for meal: SUGAR
+2011-05-30 15:55 pm: Error: Respondent: 221529Z supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 221529Z using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 222008M supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 222008M using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 222666C supplied invalid frequency: -4 for meal: KETCHUP
+2011-05-30 15:55 pm: Error: Respondent: 222666C supplied invalid frequency: -9 for meal: MARMITE
+2011-05-30 15:55 pm: Error: Respondent: 222666C supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 222666C using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 223928Z supplied invalid frequency: -9 for meal: EGGS
+2011-05-30 15:55 pm: Error: Respondent: 223928Z supplied invalid frequency: -9 for meal: LOWCAL_SALAD_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 223928Z supplied invalid frequency: -9 for meal: PORT
+2011-05-30 15:55 pm: Error: Respondent: 223928Z supplied invalid frequency: -9 for meal: GRAPEFRUIT
+2011-05-30 15:55 pm: Error: Respondent: 223928Z supplied invalid frequency: -9 for meal: GRAPES
+2011-05-30 15:55 pm: Error: Respondent: 223928Z supplied invalid frequency: -9 for meal: WATERCRESS
+2011-05-30 15:55 pm: Error: Respondent: 223928Z supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 223928Z using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 224213J supplied invalid frequency: -9 for meal: OILY_FISH
+2011-05-30 15:55 pm: Error: Respondent: 224213J supplied invalid frequency: -9 for meal: PORRIDGE
+2011-05-30 15:55 pm: Error: Respondent: 224213J supplied invalid frequency: -9 for meal: CEREAL
+2011-05-30 15:55 pm: Error: Respondent: 224213J supplied invalid frequency: -4 for meal: ROAST_POTATOES
+2011-05-30 15:55 pm: Error: Respondent: 224213J supplied invalid frequency: -9 for meal: POTATO_SALAD
+2011-05-30 15:55 pm: Error: Respondent: 224213J supplied invalid frequency: -9 for meal: BROWN_RICE
+2011-05-30 15:55 pm: Error: Respondent: 224213J supplied invalid frequency: -9 for meal: HOMEBAKED_BUNS
+2011-05-30 15:55 pm: Error: Respondent: 224213J supplied invalid frequency: -4 for meal: WATERCRESS
+2011-05-30 15:55 pm: Error: Respondent: 224213J supplied invalid weight: -9 for visible fat
+2011-05-30 15:55 pm: Error: Respondent: 224213J supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 224213J using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 224242Q supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 224242Q using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 224348F supplied invalid frequency: -4 for meal: AVOCADO
+2011-05-30 15:55 pm: Error: Respondent: 224348F supplied invalid frequency: -9 for meal: BEANS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: BURGER
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: LAMB
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: BACON
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: HAM
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: CORNED_BEEF
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: SAUSAGES
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: SAVOURY_PIES
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: LIVER
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: FRIED_FISH
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: FISH_FINGERS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: WHITE_FISH
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: OILY_FISH
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: SHELLFISH
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: ROE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: WHITE_BREAD
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: BROWN_BREAD
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: WHOLEMEAL_BREAD
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: CRACKERS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: CRISPBREAD
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: PORRIDGE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: CEREAL
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: BOILED_POTATOES
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: CHIPS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: ROAST_POTATOES
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: POTATO_SALAD
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: WHITE_RICE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: BROWN_RICE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: WHITE_PASTA
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: WHOLEMEAL_PASTA
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: LASAGNE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: PIZZA
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: SINGLE_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: DOUBLE_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: LOWFAT_YOGURT
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: FULLFAT_YOGURT
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: DAIRY_DESSERT
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: CHEESE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: COTTAGE_CHEESE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: EGGS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: QUICHE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: LOWCAL_SALAD_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: SALAD_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: FRENCH
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: OTHER_DRESSING
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: BUTTER
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: HARD_MARGARINE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: POLYUNSATURATED_MARGARINE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: OTHER_MARGARINE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: LOWFAT_SPREAD
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: VERY_LOWFAT_SPREAD
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: PLAIN_BISCUIT
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: CHOCOLATE_BISCUIT
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: HOMEBAKED_CAKE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: READYMADE_CAKE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: HOMEBAKED_BUNS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: READYMADE_BUNS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: HOMEBAKED_FRUIT_PIES
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: READYMADE_FRUIT_PIES
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: HOMEBAKED_SPONGE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: READYMADE_SPONGE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: MILK_PUDDINGS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: ICE_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: CHOCOLATES
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: CHOCOLATE_BARS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: SWEETS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: SUGAR
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: CRISPS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: NUTS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: VEGETABLE_SOUP
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: MEAT_SOUP
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: SAUCES
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: KETCHUP
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: PICKLES
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: MARMITE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: JAM
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: PEANUT_BUTTER
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: TEA
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: INSTANT_COFFEE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: DECAFF_COFFEE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: COFFEE_WHITENER
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: COCOA
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: HORLICKS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: WINE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: BEER
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: PORT
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: SPIRITS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: LOWCAL_FIZZY_DRINKS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: FIZZY_DRINKS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: FRUIT_JUICE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: FRUIT_SQUASH
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: APPLES
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: PEARS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: ORANGES
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: GRAPEFRUIT
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: BANANAS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: GRAPES
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: MELONS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: PEACHES
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: STRAWBERRIES
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: TINNED_FRUIT
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: DRIED_FRUIT
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: CARROTS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: SPINACH
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: BROCCOLI
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: SPROUTS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: CABBAGE
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: PEAS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: GREEN_BEANS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: MARROW
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: CAULIFLOWER
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: PARSNIPS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: LEEKS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: ONIONS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: GARLIC
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: MUSHROOMS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: PEPPERS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: BEANSPROUTS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: GREEN_SALAD
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: WATERCRESS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: TOMATOES
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: SWEETCORN
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: BEETROOT
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: COLESLAW
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: AVOCADO
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: BEANS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: LENTILS
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid frequency: -9 for meal: TOFU
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid weight: -9 for visible fat
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 225069P using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied no frying fat food_codes
+2011-05-30 15:55 pm: Note : Respondent: 225069P using default frying fat code: a7024
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied no baking fat food_codes
+2011-05-30 15:55 pm: Note : Respondent: 225069P using default baking fat code: a7024
+2011-05-30 15:55 pm: Error: Respondent: 225069P supplied invalid portion: -9 for milk
+2011-05-30 15:55 pm: Error: Respondent: 226718G supplied invalid frequency: -9 for meal: BROWN_BREAD
+2011-05-30 15:55 pm: Error: Respondent: 226718G supplied invalid frequency: -4 for meal: GRAPES
+2011-05-30 15:55 pm: Error: Respondent: 226718G supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 226718G using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 226783C supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 226783C using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 226783C supplied no baking fat food_codes
+2011-05-30 15:55 pm: Note : Respondent: 226783C using default baking fat code: a7024
+2011-05-30 15:55 pm: Error: Respondent: 229608Y supplied invalid frequency: -9 for meal: PICKLES
+2011-05-30 15:55 pm: Error: Respondent: 229608Y supplied invalid frequency: -9 for meal: GRAPEFRUIT
+2011-05-30 15:55 pm: Error: Respondent: 229608Y supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 229608Y using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 230442E supplied invalid frequency: -4 for meal: COCOA
+2011-05-30 15:55 pm: Error: Respondent: 230442E supplied invalid frequency: -9 for meal: BANANAS
+2011-05-30 15:55 pm: Error: Respondent: 230442E supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 230442E using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 231508N supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 231508N using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 232646A supplied invalid frequency: -4 for meal: SUGAR
+2011-05-30 15:55 pm: Error: Respondent: 232646A supplied invalid frequency: -9 for meal: CRISPS
+2011-05-30 15:55 pm: Error: Respondent: 232646A supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 232646A using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 238182S supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 238182S using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 241056R supplied invalid frequency: -9 for meal: BROWN_RICE
+2011-05-30 15:55 pm: Error: Respondent: 241056R supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 241056R using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 241786K supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 241786K using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 243879K supplied invalid frequency: -9 for meal: LAMB
+2011-05-30 15:55 pm: Error: Respondent: 243879K supplied invalid frequency: -9 for meal: POTATO_SALAD
+2011-05-30 15:55 pm: Error: Respondent: 243879K supplied invalid frequency: -9 for meal: BROWN_RICE
+2011-05-30 15:55 pm: Error: Respondent: 243879K supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 243879K using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 244465X supplied invalid frequency: -9 for meal: LOWFAT_SPREAD
+2011-05-30 15:55 pm: Error: Respondent: 244465X supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 244465X using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 244794E supplied invalid frequency: -9 for meal: LOWCAL_SALAD_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 244794E supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 244794E using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 246160P supplied invalid frequency: -9 for meal: BROWN_BREAD
+2011-05-30 15:55 pm: Error: Respondent: 246160P supplied invalid frequency: -9 for meal: CRACKERS
+2011-05-30 15:55 pm: Error: Respondent: 246160P supplied invalid frequency: -9 for meal: CRISPBREAD
+2011-05-30 15:55 pm: Error: Respondent: 246160P supplied invalid frequency: -9 for meal: DAIRY_DESSERT
+2011-05-30 15:55 pm: Error: Respondent: 246160P supplied invalid frequency: -9 for meal: PORT
+2011-05-30 15:55 pm: Error: Respondent: 246160P supplied invalid frequency: -9 for meal: LOWCAL_FIZZY_DRINKS
+2011-05-30 15:55 pm: Error: Respondent: 246160P supplied invalid frequency: -4 for meal: AVOCADO
+2011-05-30 15:55 pm: Error: Respondent: 246160P supplied invalid frequency: -9 for meal: BEANS
+2011-05-30 15:55 pm: Error: Respondent: 246160P supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 246160P using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 246511W supplied invalid frequency: -4 for meal: WHOLEMEAL_BREAD
+2011-05-30 15:55 pm: Error: Respondent: 246511W supplied invalid frequency: -9 for meal: CRACKERS
+2011-05-30 15:55 pm: Error: Respondent: 246511W supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 246511W using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 247739F supplied invalid frequency: -4 for meal: DOUBLE_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 247739F supplied invalid frequency: -9 for meal: DRIED_FRUIT
+2011-05-30 15:55 pm: Error: Respondent: 252021K supplied invalid weight: -9 for visible fat
+2011-05-30 15:55 pm: Error: Respondent: 253703N supplied invalid frequency: -9 for meal: SALAD_CREAM
+2011-05-30 15:55 pm: Error: Respondent: 253703N supplied invalid frequency: -4 for meal: OTHER_MARGARINE
+2011-05-30 15:55 pm: Error: Respondent: 253703N supplied invalid frequency: -9 for meal: PEAS
+2011-05-30 15:55 pm: Error: Respondent: 253703N supplied invalid portion: -4 for milk
+2011-05-30 15:55 pm: Error: Respondent: 256099S supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 256099S using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 256099S supplied no frying fat food_codes
+2011-05-30 15:55 pm: Note : Respondent: 256099S using default frying fat code: a7024
+2011-05-30 15:55 pm: Error: Respondent: 901611L supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 901611L using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 901643W supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 901643W using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 901711V supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 901711V using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Respondent: 902449X supplied no cereal food food_codes
+2011-05-30 15:55 pm: Note : Respondent: 902449X using default cereal code: a1362
+2011-05-30 15:55 pm: Error: Unable to load nutrients for food_code: 11140: Nutri-Grain
+
+2011-05-30 15:55 pm: Error: Unable to load nutrients for food_code: 17024: Fat spread (60% fat), polyunsaturated
+
+2011-05-30 15:55 pm: Error: Unable to load nutrients for food_code: 17025: Fat spread (60% fat), with olive oil
+
+2011-05-30 15:55 pm: Error: Unable to load nutrients for food_code: 17037: Hazelnut oil
+
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 102411Q
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 102914M
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 103983Z
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 105705W
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 105991G
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 106111M
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 106269J
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 106852S
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 107516P
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 109692E
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 109769N
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 112282V
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 117004C
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 117450M
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 119283E
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 119445F
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 119505W
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 120203E
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 120304P
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 129195D
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 129531T
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 130923G
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 131703E
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 132554E
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 139121S
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 139689K
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 141310X
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 142291N
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 143055T
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 143620H
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 144298V
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 144454P
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 157123K
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 159706S
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 159814K
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 159835H
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 159993E
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 160304S
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 160540Z
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 160822F
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 161859H
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 162728C
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 164270D
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 165494J
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 166363D
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 168966H
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 169995B
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 171191B
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 174639Z
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 174692G
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 174699P
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 175417V
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 176305K
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 176521V
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 179565D
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 181906Y
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 182318W
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 186866P
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 188611L
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 197865V
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 197953Q
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 205463D
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 210113H
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 210633Y
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 210658A
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 211411T
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 212349N
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 213606E
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 213843M
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 214636Z
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 215830X
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 216337Y
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 216508J
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 217423D
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 219451H
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 220063Y
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 220378Q
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 220593Z
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 221529R
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 221529Z
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 222008M
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 222666C
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 223928Z
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 224213J
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 224242Q
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 224348F
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 225069P
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 226718G
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 226783C
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 227565C
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 229608Y
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 230442E
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 231508N
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 232646A
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 233224D
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 238182S
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 241056R
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 241786K
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 243879K
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 244465X
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 244794E
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 246160P
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 246511W
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 247739F
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 248777J
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 248796E
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 250615G
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 252021K
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 253703N
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 256099S
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 901611L
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 901643W
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 901707Q
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 901711V
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 901808A
+2011-05-30 15:55 pm: Note : Processing completed for Respondent: 902449X
+2011-05-30 15:55 pm: Note : Questionaire: input/input-sample_input_30_of_120_lines.csv processing completed successfully, processed(119) respondents
