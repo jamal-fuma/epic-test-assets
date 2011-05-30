@@ -20,8 +20,6 @@
 2011-05-30 15:55 pm: Note : Loading imports for 'milks' completed
 2011-05-30 15:55 pm: Note : Completed database setup
 
-2011-05-30 15:55 pm: Note : Defaulting to foods report as no report style specified 
-
 2011-05-30 15:55 pm: Error: Respondent: 102411Q supplied invalid frequency: -9 for meal: OTHER_DRESSING
 2011-05-30 15:55 pm: Error: Respondent: 102411Q supplied no cereal food food_codes
 2011-05-30 15:55 pm: Note : Respondent: 102411Q using default cereal code: a1362
@@ -1002,4 +1000,4 @@
 2011-05-30 15:55 pm: Note : Processing completed for Respondent: 901711V
 2011-05-30 15:55 pm: Note : Processing completed for Respondent: 901808A
 2011-05-30 15:55 pm: Note : Processing completed for Respondent: 902449X
-2011-05-30 15:55 pm: Note : Questionaire: input/input-sample_input_30_of_120_lines.csv processing completed successfully, processed(119) respondents
+2011-05-30 15:55 pm: Note : Questionaire: ../input.csv processing completed successfully, processed(119) respondents
